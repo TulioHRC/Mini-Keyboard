@@ -9,4 +9,6 @@ Similar project, that I found on internet, just for example:
 
 ![Opera Instantâneo_2021-05-27_212938_www tinkercad com](https://user-images.githubusercontent.com/62257920/119912996-11ee4f80-bf33-11eb-998b-49e9f02dc4cc.png)
 ## Day 01 (05/28/2021)
-- Create the code for the project (dó-ré-mi-fá-sol)
+- Create the code for the project (dó-ré-mi-fá-sol) with these frequencies: 
+
+![notas musicais frequencias para o buzzer](https://user-images.githubusercontent.com/62257920/119999792-80b9c000-bfa8-11eb-9c9f-10f4ee59e6b6.png)
