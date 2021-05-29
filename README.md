@@ -13,3 +13,7 @@ Similar project, that I found on internet, just for example:
 
 ![notas musicais frequencias para o buzzer](https://user-images.githubusercontent.com/62257920/119999792-80b9c000-bfa8-11eb-9c9f-10f4ee59e6b6.png)
 - Started creating the project on the real life, but I had some errors, so I can't do more today.
+## Day 02 (05/29/2021)
+- Fix the error on  the project, and building. Now is working, but needs some design improve.
+
+![WhatsApp Image 2021-05-29 at 15 09 45](https://user-images.githubusercontent.com/62257920/120084002-26515a00-c0a3-11eb-811a-51f2e8d48ec6.jpeg)
