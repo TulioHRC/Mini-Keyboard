@@ -12,3 +12,4 @@ Similar project, that I found on internet, just for example:
 - Create the code for the project (dó-ré-mi-fá-sol) with these frequencies: 
 
 ![notas musicais frequencias para o buzzer](https://user-images.githubusercontent.com/62257920/119999792-80b9c000-bfa8-11eb-9c9f-10f4ee59e6b6.png)
+- Started creating the project on the real life, but I had some errors, so I can't do more today.
